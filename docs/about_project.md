@@ -1,0 +1,1 @@
+This RAG agent project is built using Ollama, MCP, and pgvector.

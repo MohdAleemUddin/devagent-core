@@ -1,0 +1,1 @@
+DevAgent Core uses a modular agent loop following the ReAct (Reasoning and Acting) framework, separating tool discovery from execution for maximum reliability. This rag agent is built using Python, podtgresSql, pgvector, RAG, MCP and Ollama. 
